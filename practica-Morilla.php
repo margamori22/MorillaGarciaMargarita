@@ -15,7 +15,9 @@
  * @return int Resultado de la suma
  */
 function sumar($a, $b) {
-    return $a + $b;
+    // return $a + $b;
+    // Modificación de una línea
+     return $b + $a;
 }
 
 /**
